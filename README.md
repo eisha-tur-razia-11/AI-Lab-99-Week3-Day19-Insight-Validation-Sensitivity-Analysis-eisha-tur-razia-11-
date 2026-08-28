@@ -37,7 +37,7 @@ The priority finding concerns customer revenue concentration.
 6. Store/geographic performance differs — **Medium Confidence**
 
 ## Tools
-SQL • Excel • Python • Power BI • Microsoft Word
+SQL • Excel • Python • Power BI • Microsoft Word * linkedin * github 
 
 ## Files
 - `README.md` — Repository documentation
